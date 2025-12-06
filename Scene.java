@@ -17,5 +17,31 @@ public class Scene {
         this.isDeath = isDeath;
         this.type = type;
     }
+
+    //mutators
+    public void setPrompt(String prompt) {
+        this.prompt = prompt;
+    }
+
+    public void setIsDeath(boolean isDeath) {
+        this.isDeath = isDeath;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    //accessors
+    public String getPrompt() {
+        return prompt;
+    }
+
+    public boolean getIsDeath() {
+        return isDeath;
+    }
+
+    public String getType() {
+        return type;
+    }
     
 }
