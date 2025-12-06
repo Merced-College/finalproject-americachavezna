@@ -299,7 +299,7 @@ public class StoryGame {
 
 }//end of method
 
-    //following code found on StackOverflow
+    //following code found on StackOverflow and improved for this program
     //method to print slowly for better readability
     public static void printSlowly(String toPrint) {
 
