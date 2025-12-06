@@ -1,0 +1,3 @@
+Lily;Cheetah; Runs very fast. Odds in rolling increased to 80/20 in actions that include running. 
+Sono;Bear; Has immense strength. Odds in rolling increased to 80/20 in actions that include fighting.
+Will;Mouse; Quiet feet. Odds in rolling increased to 80/20 in actions that include sneaking.

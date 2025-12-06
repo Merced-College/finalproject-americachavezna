@@ -1,0 +1,13 @@
+It is a fine sunday morning and you are on your way to deliver cookies to grandma.;false;none
+Oh no! There are bandits on the road, you try to fight them.;false;Bear
+You got squashed into a bug. Maybe you shouldn't have skipped the gym yesterday...;true;none
+After that excitement, you decide to hide inside of the woods.;false;none
+Woah, what is that sound you hear? Let's see...;false;none
+It's a wolf! You attempt to run away...;false;Cheetah
+You got caught. Where's The Flash when you need him?;true;none
+Okay, you decide no more woods for you and return to the path.;false;none
+The sun is rising, its warm rays touch down upon your face. Such happy times.;false;none
+But the happiness cannot last! The bandits are returning. You try to sneak away.;false;Mouse
+You stepped on a leaf, way to get caught.;true;none
+Back to the easy life. The sun shines upon your glory!;false;none
+And, lo and behold, your grandma waits for you with a warm cup of milk. You did it!;false;none
